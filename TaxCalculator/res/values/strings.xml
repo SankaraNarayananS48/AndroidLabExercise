@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tax">Tax Calculator</string>
+    <string name="amount">Enter Amount</string>
+    <string name="da">DAllowance</string>
+    <string name="ha">House allowance</string>
+    <string name="ma">Medical allowance</string>
+    <string name="pf">Provisional Fund</string>
+    <string name="hf">Health Fund</string>
+    <string name="prof">Provisional Fund</string>
+    <string name="btext">Submit</string>
+
+</resources>

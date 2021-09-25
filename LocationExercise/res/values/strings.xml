@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationExercise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="head1">Get Location</string>
+    <string name="head2">Enter Address</string>
+    <string name="btext">submit</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContextMenuExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sms">sms</string>
+	<string name="call">call</string>
+	<string name="head">Context Menu for Contacts</string>
+</resources>

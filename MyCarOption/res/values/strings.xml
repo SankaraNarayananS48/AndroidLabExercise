@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCarOption</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MS">Maruti-Suzuki</string>
+    <string name="MB">Mercedes-Benz</string>
+    <string name="AI">Audi</string>
+    <string name="btext">Fetch Details</string>
+    <string name="head1">Fetch Car details using Popup Menu</string>
+	<string name="head2"> </string>
+</resources>

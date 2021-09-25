@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explictquiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="head1">Simple Quiz Application</string>
+    <string name="ques1">Which one is the first search engine in internet</string>
+    <string name="ques1opt1">Google</string>
+    <string name="ques1opt2">Archie</string>
+    <string name="ques1opt3">WAIS</string>
+    <string name="qhead2">Question 2</string>
+    <string name="ques2">First computer virus is known as</string>
+    <string name="ques2opt1">Rabbit</string>
+    <string name="ques2opt2">Creeper</string>
+    <string name="ques2opt3">SCA</string>
+    <string name="qhead3">Question 3</string>
+    <string name="ques3">Which of the following is not an operating system</string>
+    <string name="ques3opt1">DOS</string>
+    <string name="ques3opt2">C</string>
+    <string name="ques3opt3">MAC</string>
+    <string name="btext">submit</string>
+    <string name="head2">Your Score</string>
+    <string name="btext2">Back to Quiz</string>
+
+</resources>

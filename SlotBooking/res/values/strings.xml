@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlotBooking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="head1">Vaccine Slot Booking</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="phone">Phoneno</string>
+    <string name="center">Center</string>
+    <string name="btext">submit</string>
+
+</resources>

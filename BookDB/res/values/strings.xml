@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookDB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="head1">Book Information Details</string>
+    <string name="head2">Book-id</string>
+    <string name="head3">Book_Title</string>
+    <string name="head4">Book-Author</string>
+    <string name="head5">Book-Price</string>
+    <string name="head6">Book-Edition</string>
+    <string name="btext1">Insert</string>
+    <string name="btext2">Update</string>
+    <string name="btext3">Delete</string>
+    <string name="btext4">View Data</string>
+    <string name="btext5">Back</string>
+
+</resources>
